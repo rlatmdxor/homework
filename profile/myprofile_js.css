@@ -8,6 +8,7 @@
     background-color: ghostwhite;
     display: grid;
     min-height: 100vh;
+    position: relative;
   }
   
   .container {
@@ -180,7 +181,7 @@
     padding: 15px;
     background-color: #333;
     color: white;
-    margin-top: 30px;
+    margin-bottom: -4px;
   }
 
   .bg-video {
